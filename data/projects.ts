@@ -33,7 +33,7 @@ export const webProjects: WebProject[] = [
     name: "Dexa mail parser",
     tags: ["Next.js", "google sheet"],
     description: "Connect Gmail or Zoho, define your workflows — Brunch, Reservation, Wedding, whatever you need — and let AI classify and extract the right fields into the right Google Sheet automatically.",
-    previewUrl: "https://example.com",
+    previewUrl: "https://dexaemail.netlify.app/",
     imageSrc: "/project-img/dexa-parser.png",
     imageBg: "#242424",
   },
