@@ -76,7 +76,7 @@ export const graphicDesignProjects: GraphicDesignProject[] = [
     title: "Graphic Design Portfolio",
     description:
       "I create visually compelling designs that communicate ideas effectively, from social media graphics to print materials. My designs are crafted to engage and leave a lasting impression.",
-    driveUrl: "https://drive.google.com/your-drive-folder-link",
+    driveUrl: "https://drive.google.com/drive/folders/1c0vswNRwzwny5MFekvmI-TbmwZrNIQE3?usp=sharing",
     images: [
       "/designs/flyer1.png",
       "/designs/flyer2.png",
