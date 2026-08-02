@@ -30,6 +30,15 @@ export const webProjects: WebProject[] = [
   },
   {
     id: "2",
+    name: "Frontiers Cabal",
+    tags: ["React.js", "google sheet"],
+    description: "An ultimate all-in-one progressive-web-app designed to cater to every student's needs.",
+    previewUrl: "https://frontierscabal.onrender.com/",
+    imageSrc: "/project-img/frontierscabal.png",
+    imageBg: "#242424",
+  },
+  {
+    id: "3",
     name: "Dexa mail parser",
     tags: ["Next.js", "google sheet"],
     description: "Connect Gmail or Zoho, define your workflows — Brunch, Reservation, Wedding, whatever you need — and let AI classify and extract the right fields into the right Google Sheet automatically.",
