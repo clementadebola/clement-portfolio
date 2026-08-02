@@ -31,7 +31,7 @@ export const webProjects: WebProject[] = [
   {
     id: "2",
     name: "Frontiers Cabal",
-    tags: ["React.js", "google sheet"],
+    tags: ["React.js", "typescript", "Redux"],
     description: "An ultimate all-in-one progressive-web-app designed to cater to every student's needs.",
     previewUrl: "https://frontierscabal.onrender.com/",
     imageSrc: "/project-img/frontierscabal.png",
